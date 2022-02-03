@@ -4,7 +4,7 @@
  * Description: Disciple.Tools - Plugin Critical Path Location is intended filter the critical path with location
  * Version:  0.1
  * Author: Covalience DEv
- * GitHub Plugin URI: https://github.com/DiscipleTools/disciple-tools-genmapper
+ * GitHub Plugin URI: https://github.com/athakur138/PluginDT-Critical-Path-Location
  */
 
 
