@@ -13,7 +13,7 @@ class DT_Metrics_Critical_Path_Charts_location extends DT_Metrics_Chart_Base
     public $slug = 'critical_path_location'; // lowercase
     public $js_object_name = 'wp_js_object'; // This object will be loaded into the metrics.js file by the wp_localize_script.
     public $js_file_name = 'critical-path-location.js'; // should be full file name plus extension
-    public $permissions = [ 'dt_all_access_contacts', 'view_project_metrics' ];
+    public $permissions = [ 'access_contacts', 'dt_all_access_contacts', 'view_project_metrics' ];
 
     public function __construct()
     {
